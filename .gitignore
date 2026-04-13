@@ -1,0 +1,4 @@
+menu-vision-app/node_modules/
+menu-vision-app/.next/
+menu-vision-app/.env.local
+menu-vision-app/.vercel/
